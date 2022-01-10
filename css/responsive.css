@@ -1,0 +1,113 @@
+/*All Laptop Desktop device*/
+@media screen and (max-width: 1024px) {
+	/*code start*/
+
+	/*code End*/
+}
+/*All Tablet Device and seface Duo*/
+@media screen and (max-width: 768px) {
+	/*code start*/
+.testimonial-area .testimonial p{
+    width: 100%;
+    
+  }
+.ordder-area .order-form{
+    width: 100%;
+    margin: 20px auto;
+  }
+  .navbar-light .navbar-brand img{
+    width: 100px;
+    height: 60px;
+  }
+  .coock-area {
+    
+    padding: 40px 0px;
+    
+}
+.about-area .about h2{
+  font-size: 23px;
+}
+.ordder-area .order h2{
+  margin-top: 20px;
+}
+.contact-img{
+  text-align: center;
+}
+.contact-img-top{
+  margin-top: 20px;
+}
+}
+
+
+/*code End*/
+
+/*All Mobile Device lg,mi,iphone,moto,*/
+@media screen and (max-width: 480px) {
+	/*code start*/
+	.testimonial-area .testimonial p{
+  	width: 100%;
+  	
+  }
+.ordder-area .order-form{
+  	width: 100%;
+  	margin: 20px auto;
+  }
+  .navbar-light .navbar-brand img{
+  	width: 100px;
+  	height: 60px;
+  }
+  .coock-area {
+    
+    padding: 40px 0px;
+    
+}
+.about-area .about h2{
+	font-size: 23px;
+}
+.ordder-area .order h2{
+	margin-top: 20px;
+}
+.contact-img{
+	text-align: center;
+}
+.contact-img-top{
+	margin-top: 20px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fffefe;
+    background: url(/images/hover-line.png) center left no-repeat;
+    background-size: auto;
+
+}
+/*code End*/
+}
+/*mini Device Galaxy fold And Mini Phone*/
+@media screen and (max-width: 320px) {
+	/*code start*/
+.testimonial-area .testimonial p{
+  	width: 100%;
+  	
+  }
+.ordder-area .order-form{
+  	width: 100%;
+  	margin: 20px auto;
+  }
+  .navbar-light .navbar-brand img{
+  	width: 100px;
+  	height: 60px;
+  }
+  .coock-area {
+    
+    padding: 40px 0px;
+    
+}
+.about-area .about h2{
+	font-size: 23px;
+}
+.ordder-area .order h2{
+	margin-top: 20px;
+}
+
+
+/*code End*/
+}
